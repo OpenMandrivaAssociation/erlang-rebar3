@@ -13,7 +13,7 @@ Release:	%mkrel 1
 Summary:	Erlang Build Tools
 Group:		Development/Tools
 License:	MIT
-URL:		http://www.rebar3.org
+URL:		https://www.rebar3.org
 Source0:	https://github.com/%{upstream}/%{realname}/archive/%{version}/%{realname}-%{version}.tar.gz
 #Source1:	rebar.escript
 
